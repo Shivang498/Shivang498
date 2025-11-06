@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivang498
+- 👋 Hi, I’m Shivang Dwivedi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning to Code
 - 📫 Reach me at i_am_shivang_18
